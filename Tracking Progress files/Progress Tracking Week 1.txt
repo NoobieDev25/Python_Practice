@@ -1,0 +1,34 @@
+Progress Programming Tracking (30 Days Plan)
+
+Language: Python | Daily commitment: 1–2 hours | Focus: Core logic & problem solving
+
+Week 1 — Know What You Actually Know
+Goal: Stop hiding from the gaps. Find them on purpose.
+Daily structure (1–2 hrs):
+
+20 min — Solve one problem with NO help. Timer on, tabs closed. Don't finish it — just write what you can.
+20 min — Now look up what you needed. Understand it, don't just copy it.
+20 min — Rewrite the solution from scratch without looking at what you just read.
+10 min — Write 2–3 sentences in a notebook: what did I get stuck on, and why?
+
+Problems to use this week (in this order):
+
+FizzBuzz — classic, but write it 3 different ways
+Reverse a string without using [::-1]
+Count how many times each word appears in a sentence
+Find the largest number in a list without using max()
+Check if a word is a palindrome
+Sum all even numbers between 1 and 100
+Build a simple number guessing game (user vs computer)
+
+Project FizzBuzz
+
+DAY #1
+
+- Problem I tackled: FizzBuzz
+- Where I got stuck: Blank when lists didn't work.
+  Confused when % was introduced mid-problem
+- What I looked up: How % works
+- What I now understand that I didn't before: if/elif order matters.
+  Most specific condition goes first.
+- Confidence rating today (1-10): 5
