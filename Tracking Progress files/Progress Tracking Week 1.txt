@@ -32,3 +32,19 @@ DAY #1
 - What I now understand that I didn't before: if/elif order matters.
   Most specific condition goes first.
 - Confidence rating today (1-10): 5
+
+Day #2
+
+- Problem I tackled: Password Checker
+- Where I got stuck: I got stuck because i didn't know how to manage the logic in code
+- What I looked up: the 'any' function in python.
+- What I now understand that I didn't before: The 'any' syntax logic and i refresh that i could represent a group with a simple letter like 'c' in number and symbols.
+- Confidence rating today (1-10): 6
+
+Day #3
+
+- Problem I tackled: Random Password Generator
+- Where I got stuck: I got stuck bulding the for loop trying to put my logic in code and thinking of how to make sure that the password will use letters, numbers and symbols randomly.
+- What I looked up: How random.choice() works and why was a good option, I search the import string documentation for better understanding.
+- What I now understand that I didn't before: I didn't remembered that i could do more logic after a for loop and that i can use the same variable twice and not necessary overwrite it and just update it using it again.
+- Confidence rating today (1-10): 4
