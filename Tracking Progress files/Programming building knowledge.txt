@@ -1,0 +1,20 @@
+Programming building knowledge and tips:
+
+You got lost today when you tried to hold the whole solution in your head at once. The fix for that — for every developer at every level — is the same: shrink the problem until one piece is solvable, solve it, then expand.
+Tomorrow when you start the next script, before you write any code, write this in a comment at the top:
+python
+# Step 1:
+# Step 2:
+# Step 3:
+Just the steps in plain english. No code yet. Plan the small pieces first. Then build one step at a time.
+That habit alone will change how stuck feels. It turns "I don't know how to do this" into "I don't know how to do step 2 yet" — which is a much smaller, solvable problem.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+You don't need to know everything. You need to know enough to solve the problem in front of you, and how to find the rest. That's it. Senior developers feel this too — every language and framework has infinite depth. Nobody knows all of it.
+What you're actually building right now is more valuable than syntax knowledge. You're building the ability to:
+
+Break a problem into steps
+Recognize what kind of tool you need
+Look it up and understand it
+Apply it correctly
+
+That process is the job. The specific syntax is just vocabulary.
