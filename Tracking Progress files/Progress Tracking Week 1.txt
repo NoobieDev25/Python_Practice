@@ -56,3 +56,11 @@ Day #4
 - What I looked up: How any works in more detailed and how to put some elements in the right order for better logic.
 - What I now understand that I didn't before: Better understanding of order of execution of the code and what to put first; I learn how to comment steps and logic first before writing code.
 - Confidence rating today (1-10): 6
+
+Day #5
+
+- Problem I tackled: Login Attempts 
+- Where I got stuck: Thinking in how to validated the number of attempts and how to build the while logic and problem with indentation. 
+- What I looked up: How counter logic works and while loop information.
+- What I now understand that I didn't before: Better understanding of the counter system and while functionality. Integration of pseudo code for better problem solving and how to use it.
+- Confidence rating today (1-10): 5
